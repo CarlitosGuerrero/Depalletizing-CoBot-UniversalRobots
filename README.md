@@ -1,2 +1,8 @@
 # Depalletizing-CoBot-UniversalRobots
-UR cobot depalletizing system in PolyScope handling non-uniform box patterns (alternating horizontal/vertical layers). Using a vacuum gripper, the robot picks each box and places it onto a conveyor, considering separator layers for continuous operation.
+This project implements a depalletizing system using a Universal Robots cobot programmed in PolyScope. The system handles pallets where boxes are arranged in an alternating, non-uniform pattern, combining horizontal and vertical orientations across layers (e.g., two horizontal and one vertical, followed by two vertical and one horizontal).
+
+The robot identifies and picks each box sequentially using a vacuum gripper, ensuring stable handling regardless of orientation. A separation layer between stacking patterns is also considered during the process. Each box is then placed onto a conveyor belt for downstream operations.
+
+The solution focuses on flexibility and reliable handling of mixed-orientation pallet patterns, demonstrating practical cobot integration for semi-structured depalletizing tasks.
+
+![Depalletizing System](assets/depalletizing.png)
