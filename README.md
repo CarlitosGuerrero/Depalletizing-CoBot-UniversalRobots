@@ -6,3 +6,5 @@ The robot identifies and picks each box sequentially using a vacuum gripper, ens
 The solution focuses on flexibility and reliable handling of mixed-orientation pallet patterns, demonstrating practical cobot integration for semi-structured depalletizing tasks.
 
 ![Depalletizing System](assets/depalletizing.png)
+
+![Depalletizing Simulation](assets/image.png)
