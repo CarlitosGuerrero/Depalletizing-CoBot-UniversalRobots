@@ -7,4 +7,4 @@ The solution focuses on flexibility and reliable handling of mixed-orientation p
 
 ![Depalletizing System](https://github.com/CarlitosGuerrero/Depalletizing-CoBot-UniversalRobots/blob/main/depalletizing.png)
 
-![Depalletizing Simulation](assets/image.png)
+![Depalletizing Simulation](https://github.com/CarlitosGuerrero/Depalletizing-CoBot-UniversalRobots/blob/main/image.png)
